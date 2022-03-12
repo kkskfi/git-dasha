@@ -73,4 +73,4 @@ public class MainActivity extends AppCompatActivity {
         return NavigationUI.navigateUp(navController, appBarConfiguration)
                 || super.onSupportNavigateUp();//погорелова дашка пр-20.102к
     }
-}
+}//даша пр-20.102к
